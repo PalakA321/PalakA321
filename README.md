@@ -1,6 +1,6 @@
 # Hi, I'm Palak Agrawal 👋
 
-**Web Development | B.Tech CSE, Final Year**
+**Web Developer | B.Tech CSE, Final Year**
 
 I like building small, useful tools and learning by shipping things end-to-end — from writing the code, to pushing it on GitHub, to deploying it live.
 
