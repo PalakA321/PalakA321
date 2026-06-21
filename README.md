@@ -17,7 +17,7 @@ I like building small, useful tools and learning by shipping things end-to-end �
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| [💰 SpendSmart](https://github.com/PalakA321/SpendSmart) | Personal expense tracker with visual charts | HTML, CSS, JS | [Demo](https://palaka321.github.io/SpendSmart/) |
+| [💰 SpendSmart](https://github.com/PalakA321/SpendSmart) |Full-stack expense tracker with auth and real-time analytics | React, Node.js, Express, MongoDB, Firebase | [Demo](https://palaka321.github.io/SpendSmart/) |
 | [📝 Word Counter](https://github.com/PalakA321/word-counter) | Live word/character counter with platform limit checks | Next.js, TypeScript, Tailwind | [Demo](https://word-counter-nine-tan.vercel.app) |
 | [📚 Book Recommendation](https://github.com/PalakA321/Book_Recommendation_System) | ML-based book recommendation system | Python, Jupyter Notebook | - |
 
