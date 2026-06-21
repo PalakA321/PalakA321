@@ -8,7 +8,7 @@ I like building small, useful tools and learning by shipping things end-to-end �
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS  
+**Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS  
 **Tools:** Git, GitHub, Vercel
 
 ---
